@@ -1,0 +1,40 @@
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP_test.py
+  s_c279be54b9b90a::t_a3572cd6da22e7 886-887
+  s_c279be54b9b90a::t_6d026af85e706a 892-893,895
+  s_c279be54b9b90a::t_601e7e2ecd877e 894
+  s_c279be54b9b90a::t_90353d47275624 921-923,935-936
+  s_c279be54b9b90a::t_5c19a55d60f40f 837-838
+  s_c279be54b9b90a::t_487329d26b4857 839
+  s_c279be54b9b90a::t_b1aaa8849f67f8 3,7,14-15,17,33-34,331,337-339,355,358,362,367,372,375,379-380,382,386,388,430-480,482-484,487-515,518,520,522-523,525-612,1085,1114,1137,1164,1198,1220,1243,1268,1289,1295-1348
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP.py
+  s_c279be54b9b90a::t_dcb59a89b8ab90 724-729
+  s_c279be54b9b90a::t_7b1178813014e3 730
+  s_c279be54b9b90a::t_37d0cfcc79934b 721-723,731
+  s_c279be54b9b90a::t_e2a06a9c85972d 38-77,292,300,315-316,528,537,586,588-593,595-597,600-602,605-609,611-627,630-645,853,864,907-909,988-989,1001
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP.yml
+  s_c279be54b9b90a::t_65dd7628088ece 97,104-107,110-203
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP_description.md
+  s_c279be54b9b90a::t_8ae6edf11f12c6 5-6
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/README.md
+  s_c279be54b9b90a::t_e47672ffc22680 4-5,27-37,194-200
+Packs/Palo_Alto_Networks_Enterprise_DLP/ReleaseNotes/2_5_0.md
+  s_c279be54b9b90a::t_df1b0d230528e2 1-9
+Packs/Palo_Alto_Networks_Enterprise_DLP/pack_metadata.json
+  s_c279be54b9b90a::t_7a5681e07fc45e 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "ffffed831698887bcf8b7380d2486fdc86504943",
+  "prompts": {},
+  "sessions": {
+    "s_c279be54b9b90a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea0e03e8-0afb-4e1d-aaeb-56a9f5f3e3b0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rajesh Pantula <rpantula@paloaltonetworks.com>"
+    }
+  }
+}

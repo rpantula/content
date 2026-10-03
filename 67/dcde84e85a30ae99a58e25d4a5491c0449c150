@@ -1,0 +1,50 @@
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP.py
+  s_c279be54b9b90a::t_37d0cfcc79934b 734-736,742
+  s_c279be54b9b90a::t_9594c51fcf3003 53-55
+  s_c279be54b9b90a::t_eefcb4a2c11c49 730
+  s_c279be54b9b90a::t_e2a06a9c85972d 38-52,56-65,69-77,87-90,305,313,328-329,541,550,599,601-606,608-610,613-615,618-622,624-640,643-658,864,875,918-920,999-1000,1012
+  s_c279be54b9b90a::t_99a43785e98c96 78-86
+  s_c279be54b9b90a::t_bd2175c467d02c 66-68
+  s_c279be54b9b90a::t_1d982f753e2e3b 737-741
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/README.md
+  s_c279be54b9b90a::t_e47672ffc22680 4-5,27-37,197-203
+  s_c279be54b9b90a::t_e85e8f69903778 38-40
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP_description.md
+  s_c279be54b9b90a::t_8ae6edf11f12c6 5-6
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP_test.py
+  s_c279be54b9b90a::t_6d026af85e706a 915-916,918
+  s_c279be54b9b90a::t_b21125827220cf 944-946
+  s_c279be54b9b90a::t_487329d26b4857 862
+  s_c279be54b9b90a::t_1dabac0fd5dd38 860-861
+  s_c279be54b9b90a::t_34f4f91438e2bb 909-911,917
+  s_c279be54b9b90a::t_3ff4a6cb15d0ba 463-479
+  s_c279be54b9b90a::t_b1aaa8849f67f8 3,7,14-15,17,33-34,331,337-339,355,358,362,367,372,375,379-380,382,386,388,430,432-462,482,485-486,488,490-491,493-553,557-569,574-635,1108,1137,1160,1187,1221,1243,1266,1291,1312,1318-1371
+  s_c279be54b9b90a::t_0f5c51d42fdadc 554-556
+  s_c279be54b9b90a::t_90353d47275624 958-959
+  s_c279be54b9b90a::t_10e19a455c5f9c 570-573
+Packs/Palo_Alto_Networks_Enterprise_DLP/pack_metadata.json
+  s_c279be54b9b90a::t_7a5681e07fc45e 8
+Packs/Palo_Alto_Networks_Enterprise_DLP/ReleaseNotes/2_5_0.md
+  s_c279be54b9b90a::t_b7178c97cf0a22 9
+  s_c279be54b9b90a::t_df1b0d230528e2 1-4,7-8,10
+  s_c279be54b9b90a::t_841e274e44ab22 5-6
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP.yml
+  s_c279be54b9b90a::t_d2903ae3acfa4b 204-232
+  s_c279be54b9b90a::t_65dd7628088ece 97,104-107,110-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "67dcde84e85a30ae99a58e25d4a5491c0449c150",
+  "prompts": {},
+  "sessions": {
+    "s_c279be54b9b90a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea0e03e8-0afb-4e1d-aaeb-56a9f5f3e3b0",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}

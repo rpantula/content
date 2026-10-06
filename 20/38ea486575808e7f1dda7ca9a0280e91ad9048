@@ -1,0 +1,27 @@
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP_test.py
+  s_dc4fb3030e9df5::t_3d4faf5ad7a53a 966-992
+  s_dc4fb3030e9df5::t_32c2cf435c5cc5 965
+  s_dc4fb3030e9df5::t_9608827d3dbf7c 8,35,864-865,918-919
+Packs/Palo_Alto_Networks_Enterprise_DLP/ReleaseNotes/2_5_0.md
+  s_dc4fb3030e9df5::t_e300b90e3cab9a 11
+Packs/Palo_Alto_Networks_Enterprise_DLP/Integrations/Palo_Alto_Networks_Enterprise_DLP/Palo_Alto_Networks_Enterprise_DLP.py
+  s_dc4fb3030e9df5::t_8a59d82344baa5 88-96
+  s_dc4fb3030e9df5::t_7e51d06f09b82a 760-761
+  s_dc4fb3030e9df5::t_a6e430942e6885 670-685
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "2038ea486575808e7f1dda7ca9a0280e91ad9048",
+  "prompts": {},
+  "sessions": {
+    "s_dc4fb3030e9df5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0abcd87-e276-4475-b744-6b61cd72ffea",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rajesh Pantula <rpantula@paloaltonetworks.com>"
+    }
+  }
+}
